@@ -3,47 +3,31 @@
   padding: 0;
 }
 
+
+/*
+**********************  HTML ELEMENTS  **********************
+*/
 body {
   font-family: sans-serif;
 }
 
-.container {
-  max-width: 320px;
-  position: relative;
-}
-
-.text-container {
-  color: white;
-  left: 0;
-  position: absolute;
-  text-align: center;
-  top: 40%;
-  width: 100%;
-}
-
-footer {
-  background-color: #225482;
-  bottom: 0;
-  color: white;
-  left: 0;
-  padding: 8px 0;
-  position: absolute;
-  text-align: center;
-  width: 100%;
-}
-
 nav {
   background-color: rgba(255, 255, 255, 0.3);
-  height: 60px;
+  padding: 20px 0;
   position: fixed;
   width: 100%;
 }
 
+p {
+  margin: 4px 0;
+}
+
+
+/*
+***********************  HEADER AREA  ***********************
+*/
 .navs {
-  position: absolute;
-  top: 50%;
   text-align: right;
-  transform: translateY(-50%);
   width: 76%;
 }
 
@@ -68,6 +52,35 @@ nav {
   width: 100%;
 }
 
-p {
-  margin: 4px 0;
+
+/*
+************************  MAIN AREA  ************************
+*/
+.container {
+  max-width: 320px;
+  position: relative;
+}
+
+.text-container {
+  color: white;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  width: 100%;
+}
+
+
+/*
+***********************  FOOTER AREA  ***********************
+*/
+footer {
+  background-color: #225482;
+  bottom: 0;
+  color: white;
+  left: 0;
+  padding: 8px 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
 }
