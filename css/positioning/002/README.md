@@ -3,13 +3,12 @@
 
 ### Image - Avatar
 * https://picsum.photos/id/1015/320/568
-* centered horizontally
-* resizing the image is not necessary
+* resize to fit within the nav
+* circular
+* center the face within the circle
 
 ### Image - Background
 * https://picsum.photos/id/1015/320/568
-* centered horizontally
-* resizing the image is not necessary
 
 ### Font
 * sans-serif
