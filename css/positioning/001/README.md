@@ -9,6 +9,8 @@
 ### Font
 * sans-serif
 * color is white
+* 1.25rem for the title
+* default sizing for the date
 
 ### Objective
 ![objective](target/image.jpg)
