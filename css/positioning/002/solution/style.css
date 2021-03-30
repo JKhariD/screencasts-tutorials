@@ -11,6 +11,17 @@ body {
   font-family: sans-serif;
 }
 
+footer {
+  background-color: #225482;
+  bottom: 0;
+  color: white;
+  left: 0;
+  padding: 8px 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
 nav {
   background-color: rgba(255, 255, 255, 0.3);
   padding: 20px 0;
@@ -57,7 +68,6 @@ p {
 ************************  MAIN AREA  ************************
 */
 .container {
-  max-width: 320px;
   position: relative;
 }
 
@@ -67,20 +77,5 @@ p {
   position: absolute;
   text-align: center;
   top: 40%;
-  width: 100%;
-}
-
-
-/*
-***********************  FOOTER AREA  ***********************
-*/
-footer {
-  background-color: #225482;
-  bottom: 0;
-  color: white;
-  left: 0;
-  padding: 8px 0;
-  position: absolute;
-  text-align: center;
   width: 100%;
 }
