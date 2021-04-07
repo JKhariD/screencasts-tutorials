@@ -2,9 +2,8 @@
 1024px x 768px
 
 ### Logo
-* https://picsum.photos/id/660/300/400
-* centered horizontally
-* resizing the image is not necessary
+* choose any logo at [logoipsum](https://logoipsum.com/)
+* download it and include it in this exercise
 
 ### Font
 * sans-serif
