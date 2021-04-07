@@ -1,6 +1,9 @@
 ### Viewport Dimensions
 1024px x 768px
 
+### Header
+* background color for the header is `aliceblue`
+
 ### Logo
 * choose any logo at [logoipsum](https://logoipsum.com/)
 * download it and include it in this exercise
