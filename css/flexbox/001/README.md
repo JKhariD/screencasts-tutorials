@@ -16,4 +16,4 @@
 
 ### Requirements
 * use only floats to build this navigation
-* flexbox is not allowed
+* flexbox is not allowed (you need to learn how we used to do this before being able to appreciate how useful flexbox is)
