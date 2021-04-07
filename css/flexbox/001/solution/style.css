@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+header {
+  background-color: aliceblue;
+}
+
+.y-wrap {
+  margin: 0 auto;
+  width: 90%
+}
+
+nav {
+  height: 90px;
+}
+
+.logo-container {
+  float: left;
+  height: 100%;
+  width: 160px;
+}
+
+.navs {
+  display: block;
+  float: right;
+  padding: 36px 0;
+}
+
+.navs li {
+  display: inline-block;
+  margin-left: 18px;
+}
+
+.selected {
+  color: blueviolet;
+}
