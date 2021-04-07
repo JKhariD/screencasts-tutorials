@@ -12,13 +12,13 @@ header {
   background-color: aliceblue;
 }
 
+nav {
+  height: 90px;
+}
+
 .y-wrap {
   margin: 0 auto;
   width: 90%
-}
-
-nav {
-  height: 90px;
 }
 
 .logo-container {
