@@ -11,11 +11,10 @@
 
 .gallery {
   margin-bottom: 22px;
-  margin-top: 22px
+  margin-top: 22px;
 }
 
 .image-container {
-  display: block;
   float: left;
   margin: 4px 0;
   width: 32%;
@@ -24,8 +23,4 @@
 .image-container:nth-of-type(3n + 2) {
   margin-left: 2%;
   margin-right: 2%;
-}
-
-.image-container:nth-of-type(3n) {
-  margin-right: 0;
 }
