@@ -32,4 +32,4 @@
 ![objective](target/image.jpg)
 
 ### Requirements
-* use flexbox to build this navigation
+* use floats to build this navigation
