@@ -4,6 +4,15 @@
 ### Footer
 * background color for the footer is `#3a527a`
 
+### Contact information
+Use the address for Homer Simpson's family
+```
+742 Evergreen Terrace
+Springfield, OR
+97477
+541-555-1212
+```
+
 ### Font Awesome
 Social media icons come from [Font Awesome](https://fontawesome.com/)
 * fab fa-facebook fa-2x
@@ -19,4 +28,4 @@ Social media icons come from [Font Awesome](https://fontawesome.com/)
 ![objective](target/image.jpg)
 
 ### Requirements
-* use floats to build this footer
+* build this footer using standard CSS (e.g. no floats and no flexbox)
