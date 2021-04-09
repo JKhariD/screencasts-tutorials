@@ -7,11 +7,9 @@
 address {
   font-style: normal;
   margin-bottom: 16px;
-  width: 100%;
 }
 
 address span {
-  display: inline-block;
   margin: 0 6px;
 }
 
