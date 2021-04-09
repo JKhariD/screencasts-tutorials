@@ -5,7 +5,6 @@
 }
 
 address {
-  display: flex;
   font-style: normal;
   justify-content: center;
   line-height: 1.35rem;
@@ -13,7 +12,8 @@ address {
   width: 100%;
 }
 
-address p {
+address span {
+  display: inline-block;
   margin: 0 6px;
 }
 
