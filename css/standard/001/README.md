@@ -22,7 +22,6 @@ Social media icons come from [Font Awesome](https://fontawesome.com/)
 ### Font
 * sans-serif
 * the font color is `rgba(255, 255, 255, 0.7)`
-* color for the selected nav item is `blueviolet`
 
 ### Objective
 ![objective](target/image.jpg)
