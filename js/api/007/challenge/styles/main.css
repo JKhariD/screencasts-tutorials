@@ -1,0 +1,27 @@
+main {
+  flex: 1;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 22px;
+  margin-top: 22px;
+}
+
+.image-container {
+  height: 200px;
+  margin-bottom: 6px;
+  margin-top: 6px;
+  overflow: hidden;
+  width: 300px;
+}
+
+.image-container img {
+  width: 100%;
+}
+
+.image-container.vert img {
+  width: auto;
+}
