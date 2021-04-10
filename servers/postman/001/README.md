@@ -6,4 +6,4 @@
 ![objective](target/image.jpg)
 
 ### Requirements
-* There is no code to write for this assignment but after watching the video, make a `GET` request in Postman to `http://swapi.dev/api/people/1` and compare it to the objective above
+* There is no code to write for this assignment but after watching the video, make a `GET` request in Postman to `http://swapi.dev/api/people/1` and compare the response to the objective above
