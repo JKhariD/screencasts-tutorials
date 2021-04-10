@@ -10,9 +10,6 @@
 * Slight modifications are needed to create a sticky footer
 
 ### Objective
-View at 1024px x 768px
-![objective1](target/image-768-tall.jpg)
-View at 1024px x 1024px
 ![objective2](target/image-1024-tall.jpg)
 
 ### Requirements
