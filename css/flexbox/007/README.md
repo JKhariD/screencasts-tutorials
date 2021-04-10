@@ -10,7 +10,7 @@
 * Slight modifications are needed to create a sticky footer
 
 ### Objective
-![objective2](target/image.jpg)
+![objective](target/image.jpg)
 
 ### Requirements
 * Modify the CSS with flexbox so that we have a sticky footer
