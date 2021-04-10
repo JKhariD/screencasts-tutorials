@@ -1,5 +1,5 @@
 ### Prerequisites
-* Download (Postman)[https://www.postman.com/downloads/]
+* Download [Postman](https://www.postman.com/downloads/)
 * Install it and open it on your local
 
 ### Objective
