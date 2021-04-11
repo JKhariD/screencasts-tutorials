@@ -2,7 +2,7 @@
 1024px x 1024px
 
 ### CSS and HTML
-* Neither CSS nor HTML needs to be modified but be sure to look at the `image-container` selectors in **main.css** to understand how it is defensively handling images with varying aspect ratios.
+* Neither CSS nor HTML needs to be modified but be sure to look at the `image-container` selectors in **main.css** to understand how they are defensively handling images with varying aspect ratios.
 
 ### Unsplash API
 * To complete this assignment, you need a developer account at [Unsplash](https://unsplash.com/developers)
