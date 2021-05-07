@@ -1,0 +1,22 @@
+Aston Martin - Warwickshire - England - 1913
+Audi - Ingolstadt - Germany - 1909
+BMW - Munich - Germany - 1916
+Cadillac - Detroit - USA - 1902
+Chevrolet - Detroit - USA - 1911
+Chrysler - Auburn Hills - USA - 1925
+Ferrari -  Emilia-Romagna - Italy - 1939
+Ford - Dearborn - USA - 1903
+GMC - Detroit - USA - 1911
+Honda - Tokyo - Japan - 1946
+Jeep - Toledo - Ohio - 1943
+Kia - Seoul - South Korea - 1944
+Land Rover - Solihull - England - 1948
+Lexus - Nagoya - Japan - 1989
+Mazda - Hiroshima - Japan - 1920
+Mercedes-Benz - Stuttgart - Germany - 1926
+Nissan - Yokohama - Japan - 1933
+Porsche - Stuttgart - Germany - 1931
+Subaru - Shibuya - Japan - 1953
+Toyota - Toyota City - Japan - 1937
+Volkswagen - Wolfsburg - Germany - 1937
+Volvo - Gothenburg - Sweden - 1927
